@@ -1,4 +1,3 @@
 ---
-layout: 
-multiverse
+layout: multiverse
 ---
